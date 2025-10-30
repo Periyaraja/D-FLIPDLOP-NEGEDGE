@@ -28,7 +28,15 @@ Next state of D flip-flop is always equal to data input, D for every positive tr
 
 **Procedure**
 
-/* write all the steps invloved */
+I.Type the program in Quartus software.
+
+II.Compile and run the program.
+
+III.Generate the RTL schematic and save the logic diagram.
+
+IV.Create nodes for inputs and outputs to generate the timing diagram.
+
+V.For different input combinations generate the timing diagram.
 
 **PROGRAM**
 
